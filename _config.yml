@@ -1,23 +1,23 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: wowdown.info 
+url: "https://www.wowdown.info"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: Track when World of Warcraft (WoW) server maintenance is occuring in your timezone
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: wowdown
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - 
 
 # -----
 # Build
